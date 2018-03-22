@@ -1,8 +1,8 @@
 export const firebaseConfig = {
-  apiKey: "<API_KEY>",
-  authDomain: "<PROJECT_ID>.firebaseapp.com",
-  databaseURL: "https://<DATABASE_NAME>.firebaseio.com",
-  projectId: "<PROJECT_ID>",
-  storageBucket: "<BUCKET>.appspot.com",
-  messagingSenderId: "<SENDER_ID>",
+  apiKey: "AIzaSyD1Xpa5YE6Ni2awHKuMKBZrnbgMs4Od5EQ",
+  authDomain: "cozy-b3af2.firebaseapp.com",
+  databaseURL: "https://cozy-b3af2.firebaseio.com",
+  projectId: "cozy-b3af2",
+  storageBucket: "",
+  messagingSenderId: "708851137787"
 }
